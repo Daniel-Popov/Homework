@@ -22,7 +22,6 @@ while (totalHits < 4) {
   }
 }
 var random = Math.floor(Math.random() * 10) + 1;
-console.log(random);
 {
   if (random == 5) {
     alert("oстана без мебели");
